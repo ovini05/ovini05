@@ -6,7 +6,7 @@
 
 ## Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,github,mysql,spring,html,css,js,docker,linux,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,java,github,mysql,spring,html,css,js,docker,linux,windows,wordpress&perline=4)](https://skillicons.dev)
 
 ## Languages  
 - **English:** Intermediate proficiency  
